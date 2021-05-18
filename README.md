@@ -1,6 +1,6 @@
 ## 实训练习笔记
 
-### (git操作)[https://jasonandjay.github.io/study/zh/standard/Start.html#git%E7%8E%AF%E5%A2%83]
+### [git操作](https://jasonandjay.github.io/study/zh/standard/Start.html#git%E7%8E%AF%E5%A2%83)
 - 创建仓库
 - 查看状态
 - 提交信息
